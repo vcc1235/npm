@@ -1,0 +1,23 @@
+{
+  "name": "xc-service",
+  "version": "1.0.0",
+  "description": "http service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcc1235/npm.git"
+  },
+  "author": "xalete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcc1235/npm/issues"
+  },
+  "homepage": "https://github.com/vcc1235/npm#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "vue": "2.6.12"
+  }
+}
